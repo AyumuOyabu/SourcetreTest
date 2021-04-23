@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TABLE>
+	<TABLE_NAME>USER_INF</TABLE_NAME>
+	<ITEM>
+		<NAME>USER_NAME</NAME>
+		<PREF>USER_PREF</PREF>
+		<AGE>UESR_AGE</AGE>
+		<JOB>USER_JOB</JOB>
+	</ITEM>
+</TABLE>
